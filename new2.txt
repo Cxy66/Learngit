@@ -1,3 +1,8 @@
 asd
+<<<<<<< Updated upstream
 asdasd
 asdasdasd
+=======
+asdasd
+asdasdasd
+>>>>>>> Stashed changes
